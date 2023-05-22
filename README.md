@@ -16,7 +16,7 @@
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 </br>
-Aprendendo sobre o universo da programção, com o objetivo de fazer parte do mercado de segurança da informação.</br>
+Aprendendo sobre o universo da programção, com o objetivo de fazer parte do mercado de programação.</br>
 
 ## Meu contato pessoal:
 davi.alvesdias@gmail.com
