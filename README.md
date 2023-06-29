@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-alves-26686b177/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/davialveslimadias)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellie72&show_icons=true&theme=transparent)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellie72&hide=contribs,prs)
 
 ## Tecnologias que eu uso atualmente
 
